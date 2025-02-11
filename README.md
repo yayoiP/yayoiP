@@ -1,16 +1,21 @@
-## Hi there 👋
+## 自己紹介 👋
 
-<!--
-**yayoiP/yayoiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pythonでキモイことをしたい、どうもやよいです<br>
+Javascriptで余計なことをしたい、どうもやよいです<br>
+Gasっていいとつくづく思う、どうもやよいです<br>
+Luaのように輝いた存在を見つめている、どうもやよいです。<br>
 
-Here are some ideas to get you started:
+わたしは現在以下を学んでいます
+- pdf
+- Nodejs
+- ruby
+- go
+- kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+なんか面白いことないかなぁ、と毎日を過ごしています。やよいです
+
+ツカレナオース、っていう本がおすすめです
+
+最近はアルゴリズムについて勉強し始めています。数学出来ないのに。
+
+ランチャーアプリは便利なので使ってみてね!!
