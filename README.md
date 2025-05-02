@@ -21,3 +21,5 @@ Luaのように輝いた存在を見つめている、どうもやよいです�
 ランチャーアプリは便利なので使ってみてね!!
 
 Netlifyでapiを開発しようとしています
+
+  [![My languages]([https://github-stats-evirunurm.vercel.app/api/languages.js?username=yayoiP](https://github-stats-evirunurm.vercel.app/api/languages.js?username=yayoiP))]
